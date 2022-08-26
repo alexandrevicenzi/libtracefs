@@ -17,7 +17,7 @@
 
 #include "tracefs.h"
 
-#define TRACEFS_SUITE		"trasefs library"
+#define TRACEFS_SUITE		"tracefs library"
 #define TEST_INSTANCE_NAME	"cunit_test_iter"
 #define TEST_TRACE_DIR		"/tmp/trace_utest.XXXXXX"
 #define TEST_ARRAY_SIZE		5000
